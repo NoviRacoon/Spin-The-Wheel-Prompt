@@ -12,15 +12,6 @@ _________________=VIDEOPLAYER=PRIORITY=1_________________
 Make sure nobody can change the videoplayer when stage is locked even with playspace mover
 Have a way to turn on a queue player for afterparty
 
-__________________=BAR=PRIORITY=1____________________
-Make a self serving Bar. Im gonna include a sketch of what I want. Its gonna be a file called "BAR SKETCH"
-Make a drinking system where you can pour drinks in pints.
-4 different drinks with different effects with the ability to choose the force of the effects, (Like in sunset bar, the 60 to 190) Except make it 5% to 95% (5%, 15%, 25%, 35%, 45%, 55%, 65%, 75%, 85%, 95%)
-The option for the force of the drinks needs to be client side. So when you choose a strenght it doesnt change it for everybody.
-The effect you get depends on the quantity you drink like in sunset bar, so you can drink half your drink and finish it later.
-Make the drink with gravity and dissapear when they touch the floor.
-Add Tables for people to put their drinks on at multiple place in the world, like in corners and places people congregate to.
-Make it so you can put your drink on the spin the wheel table and the cards tables without them having collision for people.
 
 _________________=VIP=PRIORITY=2_____________________
 Make the VIP section with a lot of different games.
